@@ -1,0 +1,66 @@
+*{
+    color: white;
+    font-family: 'arial';
+    font-size: 15px;
+}
+
+body {
+    padding-top: 50px;
+    padding-left: 10%;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+.bold {
+    font-weight: bold;
+    font-size: 1.0em;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.card {
+    border: 10px solid rgb(207, 230, 234);
+    padding: 10px;
+    border-radius: 25px;
+    width: 400px;
+    background-color: rgb(87, 205, 225);
+    box-shadow: 5px 10px 8px 10px #888888;
+}
+
+.cardInfo{
+    border: 1px solid rgb(207, 230, 234);
+    padding: 0 20px 0 20px;
+    border-radius: 25px;
+}
+
+.info {
+    list-style: none;
+    padding: 0;
+}
+
+.black-font {
+    color: black;
+}
+
+.button {
+    background-color: rgb(44, 194, 214);
+    border: 1px solid rgb(44, 194, 214);
+    width: 20%;
+    margin-left:auto;
+    margin-right:auto;
+    text-transform: uppercase;
+}
